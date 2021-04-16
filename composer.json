@@ -1,0 +1,13 @@
+{
+    "name": "sofia/eval",
+    "authors": [
+        {
+            "name": "sofiane779",
+            "email": "77661699+sofiane779@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^7.76",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
